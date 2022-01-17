@@ -1,0 +1,8 @@
+employee_id,name,reports_to
+1,Aarati Shrestha,
+2,Birat Bade,1
+3,Arpan Aryal,2
+4,Shekhar Khadka,2
+5,Santosh Silwal,1
+6,Aman Shah,5
+7,Sudip Bala,5
